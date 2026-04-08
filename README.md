@@ -65,6 +65,6 @@ Full stack developer designing and building end-to-end software platforms with m
 
 [![Email](https://img.shields.io/badge/KarlThimm3@icloud.com-3693F3?style=for-the-badge&logo=icloud&logoColor=white)](mailto:KarlThimm3@icloud.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Karl%20Thimm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-thimm-aab780252/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karl%20Thimm-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karl-thimm-aab780252/)
 
 </div>
